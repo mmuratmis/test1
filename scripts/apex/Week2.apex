@@ -1,0 +1,10 @@
+//Address obj = new Address();
+//ValidateAddress obj = new ValidateAddress();
+//obj.validateHomeAddress();
+//obj.homeAddress();
+//PlayingWithDates obj = new PlayingWithDates();
+Planets earth = new Planets();
+earth.name = 'mmis';
+earth.planetNumber = 3;
+earth.numberOfMoons = 2;
+system.debug('Earth:'  + earth );

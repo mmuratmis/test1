@@ -1,0 +1,1 @@
+SELECT lastname, phone from Contact

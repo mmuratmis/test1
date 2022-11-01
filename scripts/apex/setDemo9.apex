@@ -1,0 +1,1 @@
+setDemo9.CheckOdd(new Set<integer>{2,3,4,5,6,7,8,9});

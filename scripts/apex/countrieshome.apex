@@ -1,0 +1,2 @@
+ 
+CountriesSet.capitalizeCountries();
